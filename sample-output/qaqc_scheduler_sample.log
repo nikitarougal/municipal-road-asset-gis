@@ -1,0 +1,13 @@
+[2026-09-29 19:00:10] QA/QC job started
+[2026-09-29 19:00:11] Connected to ArcGIS Online as demo_user
+[2026-09-29 19:00:12] Opened item: Municipal_Road_Asset_Inspection
+[2026-09-29 19:00:13] Road Assets layer: Road Assets
+[2026-09-29 19:00:13] Inspections table: Inspections
+[2026-09-29 19:00:14] Assets loaded: 11
+[2026-09-29 19:00:14] Inspections loaded: 12
+[2026-09-29 19:00:14] QA/QC completed: 11 assets, 12 inspections, 8 issues
+[2026-09-29 19:00:14] Issues by type:
+[2026-09-29 19:00:14]   No Inspection History: 5
+[2026-09-29 19:00:14]   Overdue Inspection: 2
+[2026-09-29 19:00:14]   Condition Mismatch: 1
+[2026-09-29 19:00:14] QA report saved to: outputs/GIS_Data_Quality_Report_20260929_190014.csv

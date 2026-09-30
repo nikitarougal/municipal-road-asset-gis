@@ -1,0 +1,9 @@
+IssueType,AssetID,Details
+No Inspection History,SGN-0004,Asset has no related inspection records
+No Inspection History,SGN-0006,Asset has no related inspection records
+No Inspection History,SGN-0008,Asset has no related inspection records
+No Inspection History,SGN-0009,Asset has no related inspection records
+No Inspection History,SGN-0011,Asset has no related inspection records
+Overdue Inspection,SGN-0003,Next inspection was due 2025-09-25 08:00:00
+Overdue Inspection,SGN-0005,Next inspection was due 2026-08-24 21:27:15.483000
+Condition Mismatch,SGN-0007,Parent condition=FAIR; latest inspection condition=POOR
